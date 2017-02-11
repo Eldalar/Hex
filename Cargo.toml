@@ -1,0 +1,6 @@
+[package]
+name = "hex"
+version = "0.1.0"
+authors = ["CKnappe <a@a.a>"]
+
+[dependencies]
