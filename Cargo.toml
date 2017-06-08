@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["CKnappe <a@a.a>"]
 
 [dependencies]
+alto = { git = "https://github.com/Eldalar/alto" }
